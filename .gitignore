@@ -1,3 +1,4 @@
 backend/node_modules/
 remember.txt
 backend/.env
+frontend/node_modules/
